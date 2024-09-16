@@ -5,9 +5,9 @@ Trabalho FATEC - Fundamentos de Gestão de Tecnologia da Informação
 
 
 <h1 align = center>
-  💡 Welcome 💡
+  💡 Trabalho FATEC - Fundamentos de Gestão de Tecnologia da Informação 💡
   <br><br> 
-  Perfil de Kauã Rabelo
+ Trabalho de Kauã Rabelo de Oliveira
 </h1>
 
 <p align = center>
