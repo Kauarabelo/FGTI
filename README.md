@@ -1,7 +1,6 @@
-# FGTI
-Trabalho FATEC - Fundamentos de Gestão de Tecnologia da Informação
-
-
+<h1 align = center>
+  # FGTI
+</h1>
 
 
 <h1 align = center>
