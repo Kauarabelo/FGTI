@@ -1,9 +1,7 @@
 <h1 align = center>
   # FGTI
-</h1>
 
 
-<h1 align = center>
   💡 Trabalho FATEC - Fundamentos de Gestão de Tecnologia da Informação 💡
   <br><br> 
  Trabalho de Kauã Rabelo de Oliveira
