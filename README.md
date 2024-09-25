@@ -5,6 +5,7 @@
  Trabalho de Kauã Rabelo de Oliveira
 </h1>
 
+<h3>Visão do Produto</h3>
 <p>
 &nbsp;&nbsp;&nbsp;&nbsp;Inicialmente observaram-se os principais objetivos do projeto através da identificação dos requisitos envolvidos. Produziram-se os diagramas de Casos de Uso
 e diagrama de Classe como os primeiros modelos das funcionalidades e
