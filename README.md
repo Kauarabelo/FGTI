@@ -45,4 +45,4 @@ elaboraram-se os casos de teste para formalizar as realizações dos testes.
 <p>Visão do Produto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Vis%C3%A3o%20do%20Produto.pdf"> Clique aqui!</a></p>
 <p>Product backlog: <a href=""> Clique aqui!</a></p>
 <p>Personas: <a href=""> Clique aqui!</a></p>
-<p>Model Canvas: <a href=""> Clique aqui!</a></p>
+<p>Model Canvas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/ProjectModelCanvasA1.png"> Clique aqui!</a></p>
