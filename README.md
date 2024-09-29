@@ -5,37 +5,23 @@
  Trabalho de Kauã Rabelo de Oliveira
 </h1>
 
-<h3>Visão do Produto</h3>
+<h3>Visão de Produto: Sistema de Entregas Inteligente SEIS</h3>
 <p>
-&nbsp;&nbsp;&nbsp;&nbsp;Inicialmente observaram-se os principais objetivos do projeto através da identificação dos requisitos envolvidos. Produziram-se os diagramas de Casos de Uso
-e diagrama de Classe como os primeiros modelos das funcionalidades e
-relacionamentos entre os usuários e o sistema. Identificou-se a necessidade de um
-sistema em ambiente WEB e Mobile, sendo desenvolvido em Angular, Flutter e Java
-para o gerenciamento do banco de dados no Firebase.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Foi defino e desenvolvido as funções do SEIS para que o usuário possa
-realizar de forma simples e ágil suas entregas para qualquer região do País. O cliente
-com uma demanda de entrega, se direciona até a base de coleta mais próxima. Onde
-o Colaborador realiza o login no Portal WEB SEIS e cadastra o volume respondendo
-um formulário com dados básicos sobre o produto, destinatário e remetente. Ao
-cadastrar o volume no sistema, o Condutor mais próximo a base, recebe uma
-notificação no aplicativo SEIS. No aplicativo o Condutor poderá visualizar os dados do
-produto, com a possibilidade de aceitar ou recusar a entrega. Caso o Condutor aceite
-a entrega, ele se direciona até a base de coleta para fazer a retirada. Após a partida
-do Condutor, o Colaborador pode alterar o status de “Espera” para “A caminho”. Ao
-chegar na base de destino, o Colaborador realiza o “checkout” do volume e altera o
-Status de “A caminho” para “Entregue”. Com isso, o destinatário recebe uma
-notificação via e-mail da entrega e já poderá retira-la.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Após a definição dos requisitos e a conclusão dos diagramas, iniciamos a
-codificação do sistema. Com as datas definidas no planejamento, realizamos a
-distribuição das atividades e responsabilidade entre os integrantes do grupo. Foi
-delegado através do planejamento SCRUM, onde determinamos as categorias (WEB
-e APP), dificuldades e seus respectivos prazos de entrega. Iniciamos a codificação do
-front-end do portal Web e do aplicativo simultaneamente com a criação do banco de
-dados no Firebase, logo em sequência programaram- se todas as funcionalidades do
-sistema e por fim, finalizou-se o front-end conforme a prototipação visual.<br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;No decorrer da codificação, realizamos todos os testes necessários nos
-componentes do sistema, procurando falhas ou incoerências. Nesse ínterim
-elaboraram-se os casos de teste para formalizar as realizações dos testes.
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+Atualmente, muitas empresas enfrentam dificuldades logísticas para realizar entregas rápidas e eficientes em um país de dimensões continentais como o Brasil. A falta de coordenação entre remetentes, transportadores e destinatários resulta em atrasos, extravios e aumento de custos operacionais, prejudicando a experiência do cliente e gerando ineficiências no processo de entrega.<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+A motivação para o desenvolvimento do Sistema de Entregas Inteligente SEIS surge da necessidade de otimizar o processo de entregas, conectando remetentes, transportadores e destinatários de maneira mais ágil e eficaz. Nosso objetivo é criar uma solução que facilite o gerenciamento de volumes desde o ponto de coleta até a entrega final, garantindo uma experiência simplificada para todas as partes envolvidas.<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+O SEIS proporcionará benefícios claros às empresas de logística e seus clientes ao reduzir custos operacionais, melhorar a satisfação do cliente com prazos de entrega mais curtos e transparentes, e aumentar a eficiência da equipe ao eliminar processos manuais e demorados. O retorno sobre o investimento (ROI) é evidente ao minimizar os tempos ociosos de transportadores, automatizar a gestão de entregas e reduzir os índices de erros e falhas no processo.<br><br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+A solução proposta pelo SEIS é um sistema centralizado que permitirá a coleta, transporte e entrega de volumes de forma automatizada e rastreável. Os usuários poderão cadastrar volumes em bases de coleta próximas, e os transportadores receberão notificações em tempo real para realizar as entregas. O sistema acompanhará o status de cada etapa, desde a coleta até a entrega final, proporcionando visibilidade e controle para os colaboradores e clientes. Além disso, o destinatário será notificado ao final do processo, garantindo maior previsibilidade e confiança.<br><br>
 
 </p>
 
