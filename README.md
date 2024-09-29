@@ -24,4 +24,4 @@
 <p>Visão do Produto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Vis%C3%A3o%20do%20Produto.pdf"> Clique aqui!</a></p>
 <p>Product backlog: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Product%20BackLog.pdf"> Clique aqui!</a></p>
 <p>Personas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Personas.pdf"> Clique aqui!</a></p>
-<p>Model Canvas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/ProjectModelCanvasA1.png"> Clique aqui!</a></p>
+<p>Model Canvas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/ProjectModelCanvasA1.pdf"> Clique aqui!</a></p>
