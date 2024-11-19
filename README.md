@@ -19,8 +19,9 @@
 </p>
 
 
-<h3>Segue os links: </h3>
+<h3>Segue os links do projeto: </h3>
 
+<p>Escopo do projeto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Trabalho%20Semestral%20-%20FGTI.pdf"> Clique aqui!</a></p>
 <p>Visão do Produto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Vis%C3%A3o%20do%20Produto.pdf"> Clique aqui!</a></p>
 <p>Product backlog: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Product%20BackLog.pdf"> Clique aqui!</a></p>
 <p>Personas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Personas.pdf"> Clique aqui!</a></p>
