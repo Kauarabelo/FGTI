@@ -22,7 +22,17 @@
 <h3>Segue os links do projeto: </h3>
 
 <p>Escopo do projeto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Trabalho%20Semestral%20-%20FGTI.pdf"> Clique aqui!</a></p>
-<p>Visão do Produto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Vis%C3%A3o%20do%20Produto.pdf"> Clique aqui!</a></p>
-<p>Product backlog: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Product%20BackLog.pdf"> Clique aqui!</a></p>
-<p>Personas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Personas.pdf"> Clique aqui!</a></p>
-<p>Model Canvas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/ProjectModelCanvasA1.pdf"> Clique aqui!</a></p>
+
+<p>Visão do Produto: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Vis%C3%A3o%20do%20Produto.pdf"> Clique aqui!</a> [Entrega 1]</p>
+
+<p>Project Model Canvas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/ProjectModelCanvasA1.pdf"> Clique aqui!</a> [Entrega 1]</p>
+
+<p>Product backlog: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Product%20BackLog.pdf"> Clique aqui!</a> [Entrega 2]</p>
+
+<p>Personas: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Personas.pdf"> Clique aqui!</a> [Entrega 1]</p>
+
+<p>User Stories: <a href="https://github.com/Kauarabelo/FGTI/blob/main/User%20Stories.pdf"> Clique aqui!</a> [Entrega 2]</p>
+
+<p>Plano de releases, Roadmap e distribuição de Backlog: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Plano%20de%20Releases%2C%20Roadmap%20e%20simula%C3%A7%C3%A3o%20de%20distribui%C3%A7%C3%A3o%20do%20Backlog.pdf"> Clique aqui!</a> [Entrega 2]</p>
+
+<p>Plano de custos: <a href="https://github.com/Kauarabelo/FGTI/blob/main/Plano%20de%20Custos%20do%20Projeto%20SEIS.pdf"> Clique aqui!</a> [Entrega 2]</p>
